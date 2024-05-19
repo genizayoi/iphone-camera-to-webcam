@@ -1,5 +1,5 @@
 # iphone-camera-to-webcam
-`iphone-camera-to-webcam` is a "Shortcut" utilizing the "a-Shell" App and OBS (Open Broadcaster Software) that allows you to turn your iPhone camera into a wireless webcam for your PC or other devices on the same network. Simple, efficient, and easy to use. No additional software installation is required, and no fees need to be paid.
+`iphone-camera-to-webcam`(ios-camera-to-webcam) is a "Shortcut" using the "a-Shell" App and OBS (Open Broadcaster Software) to turn your iPhone camera into a wireless webcam for your PC or other devices on the same network. Simple, efficient, and no additional software or fees required.
 ## Usage
 ### 1. (iPhone) Install the "a-Shell" App
 Search for "a-Shell" in the iPhone App Store or download it via this link:
