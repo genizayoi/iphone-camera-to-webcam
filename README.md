@@ -8,20 +8,22 @@ Search for "a-Shell" in the iPhone App Store or download it via this link:
 Search for "Shortcuts" in the iPhone App Store.
 ### 3. (iPhone) Import the "iphone-camera-to-webcam" Shortcut
 Click the link below to import the shortcut:
-[Import Link](https://www.icloud.com/shortcuts)
+
+[Import Link](https://www.icloud.com/shortcuts/089326ba44f64b81a919ccc5173b3bf1)
 ### 4. (iPhone) Configure the "iphone-camera-to-webcam" Shortcut
 You need to configure the 'target_pc_ip' to be the IP address of your PC on the same network.
 ### 5. (PC) Install the OBS software
 Download it via this link:
 [Download Link](https://obsproject.com/download/)
 ### 6. (PC) Launch OBS and Configure
-* Add a "Media Source" in the "Sources" panel
-* Right-click the "Media Source" > Properties
-* Uncheck the "Local File" checkbox
-* Type `udp://127.0.0.1:8000` in the "Input" column
-* Click "OK"
-* Click "Start Virtual Camera" in the "Controls" panel
+1. Add a "Media Source" in the "Sources" panel
+2. Right-click the "Media Source" > Properties
+3. Uncheck the "Local File" checkbox
+4. Type `udp://127.0.0.1:8001` in the "Input" column
+5. Click "OK"
+6. Click "Start Virtual Camera" in the "Controls" panel
 ### 7. (iPhone) Run the "iphone-camera-to-webcam" Shortcut
 If all the above steps are executed successfully, the virtual camera of OBS will display the iPhone camera feed.
 *****
-![IMG_0992.PNG](IMG_0992.PNG)
+![IMG_0994.PNG](IMG_0994.PNG)
+![ConfigureOBS.png](ConfigureOBS.png)
